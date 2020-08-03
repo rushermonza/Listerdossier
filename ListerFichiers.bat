@@ -1,1 +1,1 @@
-dir . Liste.txt 
+dir *.* >Liste.txt 
